@@ -52,3 +52,4 @@ else:
 		print("Usage:\n")
 		print("connect user@host nickname - create connection")
 		print("connect nickname - connect to existing server")
+		print("connect show - show saved connections")
